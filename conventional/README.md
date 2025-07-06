@@ -13,9 +13,13 @@ This article will explain the biggest and most game-changing developments in mai
 
 Thrush will be released when the compiler and language are deemed to have the minimum C capability to interoperate with core code. In addition, all the capabilities needed to interoperate with external code have been mapped, making Thrush an extensible and usable language with real code from other programming languages.
 
+It should be noted that this does not include certain new features in C, such as macros and compile-time execution.
+
 As of this writing, the compiler and language are not that far from this stage. Please be patient.
 
 If you want to accelerate development, it is recommended to support the developer with technical or financial expertise.
+
+For example, offering to develop language and syntax documentation, without getting involved in the compiler.
 
 In any case, Thrush is soon to be released.
 
