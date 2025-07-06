@@ -37,6 +37,19 @@ A new feature of Thrush, which will allow code execution at compile time, enabli
 
 For more information, see: `compiletime/README.md`
 
+### C Code Execution
+
+A new feature from Thrush, which will allow you to compile C directly from the Thrush compiler. It is heavily inspired by the implementation of the [D Programming Language](https://dlang.org).
+
+For more information, see: `cexecution/README.md`
+
+### Bootstrapping
+
+It refers to the compiler technique of writing a primary compiler, then writing the main compiler in the same language. For these reasons, Rust is built in Rust.
+
+For more information, see: `cexecution/README.md`
+
+Reference: https://bootstrappable.org
 
 ------------------
 
