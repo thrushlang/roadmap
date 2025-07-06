@@ -12,7 +12,7 @@ This article briefly explains the availability of code generators and backends f
 
 ### Q#
 
-Q# is a programming language created by Microsoft to build software that supports quantum computing.
+[Q#](https://github.com/microsoft/qsharp) is a programming language created by Microsoft to build software that supports quantum computing.
 
 Many of the code backends they use to compile into an intermediary that supports execution on a real quantum computer are experimental. One of these is QIR, which comes from the QIR Alliance.
 

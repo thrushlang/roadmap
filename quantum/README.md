@@ -9,3 +9,5 @@ This article will briefly discuss the integration of quantum programming into Th
 ------------------
 
 ``backends.md`` This article will briefly explain the backends and code generators available for quantum code generation and intermediate representation. It will also discuss applications that use [Q#](https://github.com/microsoft/qsharp) to model code generation. 
+
+``qir/README.md`` Explains how QIR (Quantum Intermediate Representation), created by the QIR Alliance, can be used to standardize compiler design with a focus on quantum computing, using LLVM as an intermediary.
