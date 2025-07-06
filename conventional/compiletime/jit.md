@@ -10,7 +10,7 @@ This article will briefly explain how the just-in-time compiler can be integrate
 
 ### First things first.
 
-It should be noted that we're talking about a JIT, not an implementation of some kind of interpreter with a virtual machine. Like many other programming languages, in this case, the JIT uses the current LLVM backend to compile code at compile time.
+It should be noted that we're talking about a JIT, not an implementation of some kind of interpreter with a virtual machine. Like many other programming languages, in this case, the JIT uses the current LLVM backend to run code at compile time.
 
 Exposed in Rust in the LLVM C API with the function:
 
