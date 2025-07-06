@@ -47,7 +47,7 @@ For one of the most basic compile-time code execution functions, dynamic support
 
 This involves CBindgen external type generation and JIT's internal external type resolution.
 
-This process may require assistance from the programmer, so the command line becomes essential.
+Cbindgen will have the ability to preprocess C type headers from scratch and pass them to the Thrush compiler, which will integrate them into its AST and finalize the execution at compile time. This will be achieved before higher-level systems take the representation and split it between the AOT and the JIT, if required.
 
 For more information, see the article `typeres.md`.
 
